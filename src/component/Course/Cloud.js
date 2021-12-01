@@ -33,7 +33,7 @@ const courseData2 = [
   { topic: "Applications in the Cloud" },
   { topic: "Developing, Deploying, and Monitoring in the Cloud" },
 ];
-const courseData1 = [{ topic: "" }, { topic: "" }];
+// const courseData1 = [{ topic: "" }, { topic: "" }];
 
 const profile = [
   {

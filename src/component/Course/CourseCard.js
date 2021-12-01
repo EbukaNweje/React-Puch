@@ -81,11 +81,11 @@ const View = styled.div`
   align-items: center;
   flex-wrap: wrap;
 `;
-const Hold = styled.div`
-  display: flex;
-  align-items: center;
-  margin: 10px;
-`;
+// const Hold = styled.div`
+//   display: flex;
+//   align-items: center;
+//   margin: 10px;
+// `;
 const Icon = styled.div`
   margin-right: 15px;
   transform: rotate(270deg);

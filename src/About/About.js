@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import pix from "./p2.jpg";
+// import pix from "./p2.jpg";
 import vid from "./fri.mp4";
 import red from "./red.svg";
 import { AiFillCheckCircle } from "react-icons/ai"

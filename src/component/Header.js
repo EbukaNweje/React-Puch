@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from "styled-components"
-import LogoImg from "../img/Logo.PNG"
+import LogoImg from "../img/logo192.png"
 import { GiHamburgerMenu } from "react-icons/gi";
 import { AiOutlineClose } from "react-icons/ai";
 import SideBar from "./SideBar";

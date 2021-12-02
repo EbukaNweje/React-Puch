@@ -11,12 +11,12 @@ const SideBar = ({ text, toggle, setToggle }) => {
                    onClick={() => {
                     setToggle(false);
                   }}>Home</Nav>
-                <Nav to="About"
+                <Nav to="/About"
                 onClick={() => {
                   setToggle(false);
                 }}>About</Nav>
                 {/* <Nav>Pricing</Nav> */}
-                <Nav to="course"
+                <Nav to="/course"
                 onClick={() => {
                   setToggle(false);
                 }}>Courses</Nav>
